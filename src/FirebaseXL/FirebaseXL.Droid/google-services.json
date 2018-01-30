@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1004483375097",
+    "firebase_url": "https://xlfirebase.firebaseio.com",
+    "project_id": "xlfirebase",
+    "storage_bucket": "xlfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004483375097:android:1e0d250daf4b05e2",
+        "android_client_info": {
+          "package_name": "com.xinobistudio.FirebaseXL"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004483375097-203r26kr8gfgvl346iaooaddl3bq7t1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBJpiLCM4mvs4S1Zr7uQUwWpjbta56Wu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
